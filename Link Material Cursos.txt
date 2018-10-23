@@ -1,1 +1,4 @@
 https://github.com/DataScienceSpecialization/courses/
+
+Case Study -Air Pollution
+https://www.coursera.org/learn/exploratory-data-analysis/lecture/hVteM/air-pollution-case-study
